@@ -1,0 +1,6 @@
+name: onlineproof
+main: cn.minedawn.online.online
+version: 0.0.1-SNAPSHOT
+commands:
+  online:
+    description: /onlineproof
