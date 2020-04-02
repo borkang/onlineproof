@@ -60,10 +60,3 @@ public class online extends JavaPlugin implements Listener{   //实现接口
         }
 	}
 }
-		
-//@EventHandler
-//public void chat(AsyncPlayerChatEvent e)
-//{
-//	if()
-//	e.setFormat("[前戳]"+e.getFormat());
-//}
