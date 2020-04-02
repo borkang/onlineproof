@@ -10,7 +10,7 @@ public class online extends JavaPlugin implements Listener{   //实现接口
 	public void onEnable(){
 		getServer().getPluginManager().registerEvents(this, this);
 		getLogger().info("正版玩家验证插件(普通服插件)成功载入");
-		getLogger().info("作者:Minedawn 我的黎明，QQ:1649800132");
+		getLogger().info("作者:Minedawn Team，QQ:1649800132，邮箱：team@minedawn.cn");
 		getLogger().info("http://www.minedawn.cn");
 	}
 	@EventHandler
