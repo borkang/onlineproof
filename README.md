@@ -4,6 +4,7 @@ https://www.mcbbs.net/thread-728428-1-1.html
 ## 插件使用方法：
 
 1.下载插件
+https://github.com/minedawn/onlineproof/releases
 
 "online.jar"是验证服使用的
 
