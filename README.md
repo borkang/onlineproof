@@ -1,5 +1,4 @@
-# onlineproof
-https://www.mcbbs.net/thread-728428-1-1.html
+
 
 ## 插件使用方法：
 
